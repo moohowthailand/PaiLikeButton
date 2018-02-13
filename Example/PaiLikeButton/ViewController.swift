@@ -11,7 +11,7 @@ import PaiLikeButton
 
 class ViewController: UIViewController {
     
-    var user: PaiUser!
+    var user:PaiUser!
     
     override func viewDidLoad() {
         super.viewDidLoad()

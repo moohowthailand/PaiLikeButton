@@ -15,8 +15,8 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		66C9EF182032A608001D09A2 /* PaiLikeButton.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66C9EF192032A608001D09A2 /* PaiLikeButton.framework */; };
 		66C9EF1A2032A7BB001D09A2 /* Pods_PaiLikeButton_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EB07BD3F52B48C1AAF6C85C5 /* Pods_PaiLikeButton_Tests.framework */; };
+		66C9EF252032AAC1001D09A2 /* PaiLikeButton.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66C9EF262032AAC1001D09A2 /* PaiLikeButton.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +45,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		66C9EF132032A46E001D09A2 /* PaiLikeButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = PaiLikeButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66C9EF192032A608001D09A2 /* PaiLikeButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = PaiLikeButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		66C9EF262032AAC1001D09A2 /* PaiLikeButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = PaiLikeButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8380EA9949284F3ABBBFCE50 /* Pods-PaiLikeButton_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PaiLikeButton_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PaiLikeButton_Example/Pods-PaiLikeButton_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D82772AF58B7997B567DEBFB /* Pods_PaiLikeButton_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PaiLikeButton_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB1A35D664116D03FE83E3FE /* Pods-PaiLikeButton_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PaiLikeButton_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PaiLikeButton_Tests/Pods-PaiLikeButton_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -58,8 +59,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66C9EF252032AAC1001D09A2 /* PaiLikeButton.framework in Frameworks */,
 				66C9EF1A2032A7BB001D09A2 /* Pods_PaiLikeButton_Tests.framework in Frameworks */,
-				66C9EF182032A608001D09A2 /* PaiLikeButton.framework in Frameworks */,
 				073030162A8CEC316723AA68 /* Pods_PaiLikeButton_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -159,6 +160,7 @@
 		719174768AD32D4A033DAFF0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				66C9EF262032AAC1001D09A2 /* PaiLikeButton.framework */,
 				66C9EF192032A608001D09A2 /* PaiLikeButton.framework */,
 				66C9EF132032A46E001D09A2 /* PaiLikeButton.framework */,
 				D82772AF58B7997B567DEBFB /* Pods_PaiLikeButton_Example.framework */,

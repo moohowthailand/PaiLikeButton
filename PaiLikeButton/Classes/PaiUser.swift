@@ -1,17 +1,10 @@
-//
-//  PaiUser.swift
-//  FBSnapshotTestCase
-//
-//  Created by Soemsak Loetphornphisit on 13/2/2561 BE.
-//
-
 import UIKit
 
-class PaiUser: NSObject {
+public class PaiUser: NSObject {
     
-    var firstname: String?
+    public var firstname: String?
     
-    func run() {
+    public func run() {
         print("run")
     }
 }

@@ -2,7 +2,7 @@
   "name": "PaiLikeButton",
   "version": "0.1.0",
   "summary": "PaiLikeButton is a great button.",
-  "description": "PaiLikeButton is a great button.",
+  "description": "PaiLikeButton is a great button. PaiLikeButton is a great button. PaiLikeButton is a great button.",
   "homepage": "https://github.com/moohowthailand/PaiLikeButton",
   "license": {
     "type": "MIT",
@@ -12,7 +12,7 @@
     "Soemsak Loetphornphisit": "soemsakplus@gmail.com"
   },
   "source": {
-    "git": "https://github.com/moohowthailand/PaiLikeButton",
+    "git": "https://github.com/moohowthailand/PaiLikeButton.git",
     "tag": "0.1.0"
   },
   "platforms": {
