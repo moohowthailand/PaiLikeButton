@@ -7,9 +7,12 @@
 //
 
 import UIKit
+import PaiLikeButton
 
 class ViewController: UIViewController {
-
+    
+    var user: PaiUser!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

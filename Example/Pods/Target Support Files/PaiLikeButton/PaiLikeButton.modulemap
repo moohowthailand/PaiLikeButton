@@ -1,0 +1,6 @@
+framework module PaiLikeButton {
+  umbrella header "PaiLikeButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

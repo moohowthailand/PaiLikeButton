@@ -1,0 +1,6 @@
+framework module Pods_PaiLikeButton_Tests {
+  umbrella header "Pods-PaiLikeButton_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
